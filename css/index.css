@@ -7773,7 +7773,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://cdn.jsdelivr.net/gh/Freezer-ZX/blog-imgs@main/avatar.webp)
+  background: url(/assets/avatar.webp)
     no-repeat center center;
   background-size: cover;
 }

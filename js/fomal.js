@@ -2945,7 +2945,7 @@ function setFontBorder() {
 
 // 设置主题色
 if (localStorage.getItem("themeColor") == undefined) {
-  localStorage.setItem("themeColor", "green");
+  localStorage.setItem("themeColor", "blue");
 }
 setColor(localStorage.getItem("themeColor"));
 function setColor(c) {

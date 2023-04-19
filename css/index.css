@@ -6728,6 +6728,8 @@ center#name-container {
   border: var(--border-style);
 }
 
+
+
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
   background: var(--trans-light);
@@ -8311,7 +8313,7 @@ li.categoryBar-list-item {
     height: 260px !important;
   }
   .blog-slider__img {
-    width: 240px !important;
+    width: 40% !important;
     height: 100% !important;
   }
 }

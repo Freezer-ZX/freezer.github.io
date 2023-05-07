@@ -9590,22 +9590,6 @@ hr:before {
   }
 }
 
-
-.tianliGPT-tag {
-  font-size: 12px;
-  background-color: var(--theme-color)!important;
-  color: var(--heo-card-bg);
-  font-weight: bold;
-  border-radius: 4px;
-  margin-left: auto;
-  line-height: 1;
-  padding: 4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: 0.3s;
-}
 .search-dialog {
   position: fixed;
   top: 10%;
